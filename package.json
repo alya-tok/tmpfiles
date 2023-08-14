@@ -1,0 +1,30 @@
+{
+  "name": "tmpfiles",
+  "version": "3.8.7",
+  "description": "Liblarys uploaded files all extensionsded with tmp",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alya-tok/tmpfiles.git"
+  },
+  "keywords": [
+    "upload",
+    "file",
+    "uploader",
+    "all extension"
+  ],
+  "author": "Alya Uhuy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alya-tok/tmpfiles/issues"
+  },
+  "homepage": "https://github.com/alya-tok/tmpfiles#readme",
+  "dependencies": {
+    "file-type": "~16.5.2",
+    "form-data": "^4.0.0",
+    "axios": "^0.21.1"
+  }
+}
