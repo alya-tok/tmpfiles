@@ -45,7 +45,7 @@ module.exports = tmpfiles = (buffer) =>{
          } catch (e) {
             console.log(e)
             resolve({
-               creator: global.creator,
+               developer: '@Alya Uhuy',
                status: false,
                msg: e.message
             })
